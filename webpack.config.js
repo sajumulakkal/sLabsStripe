@@ -42,7 +42,7 @@ let pages = fse.readdirSync('./app').filter(function(file) {
 })
 
 let config = {
-  entry: './app/index.js',
+  entry: './index.js',
   plugins: pages,
   module: {
     rules: [
