@@ -1,0 +1,2 @@
+lazysizes lodash normalize.css
+@babel/core  @babel/preset-env  autoprefixer  babel-loader  clean-webpack-plugin  css-loader  css-minimizer-webpack-plugin     fs-extra  html-webpack-plugin  mini-css-extract-plugin  postcss-import  postcss-loader  postcss-mixins  postcss-nested  postcss-simple-vars  style-loader    webpack  webpack-cli  webpack-dev-server
